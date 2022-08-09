@@ -1,0 +1,5 @@
+./build
+*.trpc
+*.protoset
+trpc
+cross-build-mac-m1
